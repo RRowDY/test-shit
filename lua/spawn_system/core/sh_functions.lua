@@ -1,4 +1,4 @@
-function coloredPrint(...)
+function dynamicSpawning.coloredPrint(...)
     local args = {...}
 
     return MsgC(unpack(args))
